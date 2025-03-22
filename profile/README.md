@@ -15,14 +15,14 @@ By 2024, we had expanded our reach to markets in Thailand, Dubai and various Eur
 ## For MNC and Large enterprise -- [E-cology](https://weaverintl.com/products/ecology/)
 On-Premise OA Platform for MNCs <br>
 Experience the new e-cology OA platform, with upgraded features and capabilities to help businesses thrive efficiently.
-## For SME and Single Entiry --[E-office](https://weaverintl.com/products/eoffice/)
+## For SME and Single Entiry --[E-office](https://weaver.com.co/products/eoffice/)
 Standard OA Platform for SMEs <br>
 Unlock a wide range of out-of-the-box business applications with Weaver e-office 11.0. Achieve end-to-end operational automation and control of business processes.
-## Low-code Business Application build Platform -- [e-builder](https://weaverintl.com/products/ebuilder/)
+## Low-code Business Application build Platform -- [e-builder](https://weaver.com.co/products/ebuilder/)
 Low-Code Development Platform (LCDP) for Enterprises<br>
 Create forms, workflows and business applications in low-code with Weaver e-Builder.
-## For Telecom and govTech -- [SuperApp](https://weaverintl.com/products/superapp/)
+## For Telecom and govTech -- [SuperApp](https://weaver.com.co/products/superapp/)
 A private deployment alternative to Microsoft Teams <br>
 Supports multi-tenancy and white label for government sectors. Achieve maximum and efficient resource use and allocation for each tenant.
 
-**To know more details, please check [www.weaverintl.com](https://www.weaverintl.com)**
+**To know more details, please check [www.weaver.com.co](https://www.weaver.com.co)**
